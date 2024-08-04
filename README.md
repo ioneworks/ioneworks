@@ -45,7 +45,8 @@ config file path 수동 지정 (미 지정시 /WEB-INF/configuration 를 사용)
 
 사용 문의 : one@ioneworks.com
 ```
-라이선스 키 요청 : 아래 양식으로 one@ioneworks.com 으로 이메일을 보내주시면, 라이선스 키를 발급해 드립니다.
+라이선스 키 요청 : 아래 양식으로 one@ioneworks.com 으로 이메일을 보내주시면,
+라이선스 키를 발급해 드립니다.
 양식)
 - 회사/개인 명 : (주)우리회사이름 
 - 담당자 성명 : 홍길동
