@@ -38,9 +38,7 @@ config file path 수동 지정 (미 지정시 /WEB-INF/configuration 를 사용)
 -Dio.servicename="ioneworks"
 -Djava.net.preferIPv4Stack="true"
 ```
-
 <br />
-
 ------------
 이 소프트웨어는 소유자의 저작권으로 보호받고 있습니다. 무단으로의 복제, 배포, 수정, 판매, 그리고 허가되지 않은 상업적 이용은 저작권법 및 계약 위반이 될 수 있으며, 이로 인해 법적 문제가 발생할 수 있습니다.<br />
 
