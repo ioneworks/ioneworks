@@ -20,6 +20,11 @@
  + Window : https://github.com/microsoftarchive/redis/releases
    
 ------------
+### 강의 영상 
+ + Youtube  : https://www.youtube.com/@IONEWORKS
+
+------------
+
 
 ### VM 옵션 JAVA_OPTS
 
