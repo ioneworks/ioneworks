@@ -16,7 +16,7 @@
  + 실행파일 다운로드 : https://drive.google.com/file/d/1d0mdGjZ7lps7Vv91G6DSq3To-_yLuVMn/view?usp=sharing
  
 ------------
-### Reids
+### Redis
  + Window : https://github.com/microsoftarchive/redis/releases
    
 ------------
