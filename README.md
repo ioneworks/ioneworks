@@ -5,7 +5,9 @@
 ### 시작하기 (JDK 21 이상 준비, 22 호환)
 + H2DB 파일모드 기본 설정
 + DBMS 변경 시 /configuration/application.properties에서 DATABASE.conn.root의 DB 연결정보 수정
-+ statup.bat 수정 및 실행 (JAVA_HOME 설정)
++ JAVA 경로 설정 및 실행 (JAVA_HOME 경로 변경)
+  - Window : statup.bat
+  - Linex : startup.sh
 + 브라우져에서 http://localhost 접속 (포트가 8080의 경우 http://localhost:8080)
 + root 계정으로 접속 아이디 : ioneworks , 초기 패스워드 : ioneworks
 
