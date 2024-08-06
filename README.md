@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------------------
 
-### 시작하기 (JDK 21 이상 준비, 22 호환)
+### 시작하기 (JDK 21 준비)
 + H2DB 파일모드 기본 설정
 + DBMS 변경 시 /configuration/application.properties에서 DATABASE.conn.root의 DB 연결정보 수정
 + JAVA 경로 설정 및 실행 (JAVA_HOME 경로 변경)
